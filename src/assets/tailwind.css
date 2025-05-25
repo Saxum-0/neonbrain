@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* src/assets/tailwind.css ou styles.css */
+body {
+  @apply font-futuristic;
+}
