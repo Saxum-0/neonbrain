@@ -30,7 +30,10 @@
     @slideChange="() => currentImageIndex[index] = imageSwipers[index]?.realIndex || 0"
   >
     <SwiperSlide v-for="(img, i) in site.images" :key="i">
-      <img :src="img" class="w-full h-full object-cover" />
+      <div class="w-full h-full bg-black flex items-center justify-center">
+  <img :src="img" class="max-h-full max-w-full object-contain" />
+</div>
+
     </SwiperSlide>
   </Swiper>
 
