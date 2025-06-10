@@ -43,8 +43,8 @@
       <div class="mt-12 text-center">
         <p class="text-lg text-gray-300">
     Mon template Wordpress pour photographes <br />
-    <a href="www.saxum.space" class="text-[#00ff88] hover:underline">A découvrir ici</a><br>
-    <a href="https://saxumshop.etsy.com" class="text-[#00ff88] hover:underline">En vente ici</a>
+    <a href="https://saxum.space" target="_blank" class="text-[#00ff88] hover:underline">A découvrir ici</a><br>
+    <a href="https://saxumshop.etsy.com" target="_blank" class="text-[#00ff88] hover:underline">En vente ici</a>
 
   </p>
   <br>
