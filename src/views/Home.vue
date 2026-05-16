@@ -19,6 +19,12 @@
           Je conçois des expériences numériques modernes, performantes et sur mesure.
         </p>
 
+<div class="inline-flex items-center gap-2 mb-6 bg-white/10 border border-[#00ff8833] px-4 py-2 rounded-full text-sm">
+  <span class="text-[#00ff88]">⬡</span>
+  <span class="text-white font-medium">Diplômé RNCP Niv. 5 — DWWM</span>
+  <span class="text-gray-500">· Nov. 2025</span>
+</div>
+        
         <p class="mt-6 text-sm text-gray-400">Technos maîtrisées :</p>
 <ul class="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-2 text-white text-sm tracking-wide">
   <li class="bg-white/10 px-3 py-1 rounded shadow hover:shadow-md transition">PHP</li>
