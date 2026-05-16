@@ -13,7 +13,9 @@
         <h1 class="text-4xl md:text-5xl font-bold mb-6 text-white">
           Pierre Faivre
         </h1>
-
+      <p class="text-[#00ff88] text-sm tracking-widest uppercase mb-3 font-medium">
+        Développeur Full-Stack · Nice, France
+      </p>
         <p class="leading-relaxed mb-6">
           Développeur web full-stack passionné par les interfaces immersives et interactives.
           Je conçois des expériences numériques modernes, performantes et sur mesure.
@@ -56,7 +58,11 @@
   <br>
   <p class="text-lg text-gray-300">
     Envie de collaborer ou d’échanger ?<br />
-    <a href="/contact" class="text-[#ffffff] hover:underline">Contactez-moi ici</a>
+    <a href="/contact"
+  class="inline-block px-6 py-2 border border-[#00ff88] text-[#00ff88]
+         font-bold rounded custom-shadow hover:bg-[#00ff88] hover:text-black transition">
+  Me contacter
+</a>
   </p>
   <p class="mt-4 text-sm text-gray-500">
     Ou découvrez mes projets open source sur
