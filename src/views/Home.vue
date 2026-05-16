@@ -6,9 +6,10 @@
     <!-- Contenu principal -->
     <NavBar />
     <section
-      id="home"
-      class="relative z-10 min-h-screen flex flex-col justify-center items-start px-6 md:px-12"
-    >
+  id="home"
+  class="relative z-10 min-h-screen flex flex-col justify-center items-start 
+         px-6 md:px-12 pt-20 md:pt-24"
+>
       <div class="max-w-3xl text-gray-100 text-sm md:text-base">
         <h1 class="text-4xl md:text-5xl font-bold mb-6 text-white">
           Pierre Faivre
